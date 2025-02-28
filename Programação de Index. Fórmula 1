@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Calendário Fórmula 1</title>
+</head>
+<body>
+    <img src="Formula 1 Banner.jpg">
+    <hr>
+    <h1>Fórmula 1</h1>
+    <h2>O calendário completo da temporada de 2025.</h2>
+    <h3>Incluindo:horário de brasilia, datas, cidades de cada GP da temporada.</h3>
+    <hr>
+    <b>Programação <s>2024</s> -> 2025!
+    <hr>
+    <br>
+    <a href="https://www.formula1.com/en/racing/2025"target="_blank">Clique aqui! Para ver mais informações sobre a temporada.</a>
+    <br>
+    <h2>Cronograma:</h2>
+    <h3>GP da Austrália</h3>
+    <i>Local: Melbourne.</i>
+    <b>14/03 a 16/03</b>
+    <p>Horário da corrida: 01:00</p>
+    <br>
+    <h3>GP da China</h3>
+    <i>Local:Xangai.</i>
+    <b>21/03 a 23/03</b>
+    <p>Horário da corrida: 04:00</p>
+    <br>
+    <h3>GP do Japão</h3>
+    <i>Local:Suzuka.</i>
+    <b>04/04 a 06/04</b>
+    <p>Horário da corrida: 02:00</p>
+    <br>
+    <h3>GP do Bahrein</h3>
+    <i>Local:Sakhir.</i>
+    <b>11/04 a 13/04</b>
+    <p>Horário da corrida: 12:00</p>
+    <br>
+    <h3>GP da Arábia Saudita</h3>
+    <i>Local:Jidá.</i>
+    <b>18/04 a 20/04</b>
+    <p>Horário da corrida: 14:00</p>
+    <br>
+    <h3>GP de Miami</h3>
+    <i>Local:Miami, EUA.</i>
+    <b>02/05 a 04/05</b>
+    <p>Horário da corrida: 17:00</p>
+    <br>
+    <h3>GP da Emilia-Romagna</h3>
+    <i>Local:Imola, Itália.</i>
+    <b>16/05 a 18/05</b>
+    <p>Horário da corrida: 10:00</p>
+    <br>
+    <h3>GP de Mônaco</h3>
+    <i>Local:Monte Carlo.</i>
+    <b>23/05 a 25/05</b>
+    <p>Horário da corrida: 10:00</p>
+    <br>
+    <h3>GP da Espanha</h3>
+    <i>Local:Barcelona.</i>
+    <b>30/05 a 01/06</b>
+    <p>Horário da corrida: 10:00</p>
+    <br>
+    <h3>GP do Canadá</h3>
+    <i>Local:Montreal.</i>
+    <b>13/06 a 15/06</b>
+    <p>Horário da corrida: 15:00</p>
+    <br>
+    <h3>GP da Áustria</h3>
+    <i>Local:Spielberg.</i>
+    <b>27/06 a 29/06</b>
+    <p>Horário da corrida: 10:00</p>
+    <br>
+    <h3>GP do Reino Unido</h3>
+    <i>Local:Silverstone.</i>
+    <b>04/07 a 06/07</b>
+    <p>Horário da corrida: 11:00</p>
+    <br>
+    <h3>GP da Bélgica</h3>
+    <i>Local:Spa.</i>
+    <b>25/07 a 27/07</b>
+    <p>Horário da corrida: 10:00</p>
+    <br>
+    <h3>GP da Hungria</h3>
+    <i>Local:Budapeste.</i>
+    <b>01/08 a 03/08 </b>
+    <p>Horário da corrida: 10:00/p>
+    <br>
+    <br>
+    <h3>GP da Holanda</h3>
+    <i>Local:Zandvoort.</i>
+    <b>29/08 a 31/08</b>
+    <p>Horário da corrida: 10:00</p>
+    <br>
+    <h3>GP da Itália</h3>
+    <i>Local:Monza.</i>
+    <b>05/09 a 07/09</b>
+    <p>Horário da corrida: 10:00</p>
+    <br>
+    <h3>GP do Azerbaijão</h3>
+    <i>Local:Baku.</i>
+    <b>19/09 a 21/09</b>
+    <p>Horário da corrida: 08:00</p>
+    <br>
+    <h3>GP de Singapura</h3>
+    <i>Local: Singapura.</i>
+    <b>03/10 a 05/10</b>
+    <p>Horário da corrida: 09:00</p>
+    <br>
+    <h3>GP dos Estados Unidos</h3>
+    <i>Local:Austin.</i>
+    <b>17/10 a 19/10</b>
+    <p>Horário da corrida: 16:00</p>
+    <br>
+    <h3>GP do México</h3>
+    <i>Local:Cidade do México.</i>
+    <b>24/10 a 26/10</b>
+    <p>Horário da corrida: 17:00</p>
+    <br>
+    <h3>GP do Brasil</h3>
+    <i>Local:São Paulo.</i>
+    <b>07/11 a 09/11<b>
+    <p>Horário da corrida: 12:30</p>
+    <br>
+    <h3>GP de Las Vegas</h3>
+    <i>Local:Las Vegas.</i>
+    <b>20/11 a 22/11 </b>
+    <p>Horário da corrida: 03:00</p>
+    <br>
+    <h3>GP do Catar</h3>
+    <i>Local:Lusail.</i>
+    <b> 28/11 a 30/11 </b>
+    <p>Horário da corrida: 13:00</p>
+    <br>
+    <h3>GP de Abu Dhabi</h3>
+    <i>Local:Yas Marina.</i>
+    <b>28/11 a 30/11 </b>
+    <p>Horário da corrida: 10:00</p>
+    <br>
+    <hr>
+    <img src="Formula 1 Banner.jpg">
+    <hr>
+    <h6>Espero ter ajudado! Boa temporada <3</h6>
+</body>
+</html>
